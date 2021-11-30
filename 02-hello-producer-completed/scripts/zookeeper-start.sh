@@ -1,0 +1,1 @@
+$CONFL_HOME/bin/zookeeper-server-start $CONFL_HOME/etc/kafka/zookeeper.properties
